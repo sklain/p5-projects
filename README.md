@@ -6,3 +6,4 @@ Experiments with p5.js
 1. Download the p5-complete.zip from the p5 website
 2. Install the live-server extension on vscode
 3. Install the p5.vscode extension on vscode
+4. Install the ESLint vscode extension
