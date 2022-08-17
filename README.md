@@ -3,7 +3,13 @@ Experiments with p5.js
 
 ## Setup
 
-1. Download the p5-complete.zip from the p5 website
-2. Install the live-server extension on vscode
-3. Install the p5.vscode extension on vscode
-4. Install the ESLint vscode extension
+1. Install the "live server" extension on vscode
+2. Install the p5.vscode extension on vscode
+3. Install the ESLint vscode extension
+
+## Making a new project
+Copy the empty-example folder and rename. Start editing script.js...
+
+## Running a live server
+
+Once the extensions are installed, live server started with the 'Go live' button on the bottom right of the status bar.
